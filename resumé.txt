@@ -6,14 +6,14 @@ Minor in Actuarial Science
 
 Software and Related Skills
 
-    - SAS, R, python, Project Planning, Applied Mathematics, ReactJS, Node.js, Linux (debian/gentoo/ubuntu), git
-    - Other Languages:   Java, C#, C, C++, Matlab, Maple
+    - SAS, R, python, Project Planning, Applied Mathematics, ReactJS, Node.js, Linux Administration (debian/gentoo/ubuntu), git
+    - Other Languages: Java, C#, C, C++, Matlab, Maple
     - Experience with survival analysis, linear and logistic regression, and time series in SAS and R
 
 Work Experience
 
 United States Census Bureau
-IT Specialist                2019-Present
+IT Specialist                2019-
   - Fixed a critical bug in internal mapping software
   - Identified and compiled list of actions that led to a failure in moving
     development information to GitLab from Version Manager
@@ -65,4 +65,10 @@ The University of Texas at San Antonio       				April 2013-July 2013
 Senior Computer Operations Specialist	(Temp)  
 	- Worked on application written in ASP.NET and C# that connected the web interface with Microsoft Exchange, and Microsoft SQL
 	- Supervised contractors in multiple data centers across campus 
+
+Circuit City									November 2000-April 2001
+Merchandising Associate
+    - Front facing software and hardware
+	- Sales register operations such as cash, check, and credit card sales
+	- Software and periphial purchasing suggestions
 
