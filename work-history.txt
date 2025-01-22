@@ -67,6 +67,9 @@ Senior Computer Operations Specialist	(Temp)
 	- Worked on application written in ASP.NET and C# that connected the web interface with Microsoft Exchange, and Microsoft SQL
 	- Supervised contractors in multiple data centers across campus 
 
+West Telemarking								May 2002-July 2002
+	- Earthlink dail up internet support through incoming phone calls
+
 Leslie's Pools									May 2001-August 2001
 Store Associate
 	- Pool's water chlorine, salinity, and calcium count chemistry measures
